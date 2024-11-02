@@ -1,0 +1,6 @@
+Python 3.10以下。（3.8以上？）
+
+pip install numpy==1.23.1 scikit-learn==1.5.2 --force-reinstall
+pip install creversi==0.0.1
+
+
